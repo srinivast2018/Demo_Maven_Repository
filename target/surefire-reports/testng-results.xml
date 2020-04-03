@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Maven" duration-ms="12348" started-at="2020-04-01T17:20:57 IST" finished-at="2020-04-01T17:21:09 IST">
+    <groups>
+    </groups>
+    <test name="Test Maven" duration-ms="12348" started-at="2020-04-01T17:20:57 IST" finished-at="2020-04-01T17:21:09 IST">
+      <class name="com.automation.testpkg.LaunchApp">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.automation.testpkg.LaunchApp@1593948d]" name="launch" duration-ms="12298" started-at="2020-04-01T17:20:57 IST" finished-at="2020-04-01T17:21:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.automation.testpkg.LaunchApp -->
+    </test> <!-- Test Maven -->
+  </suite> <!-- Suite Maven -->
+</testng-results>
