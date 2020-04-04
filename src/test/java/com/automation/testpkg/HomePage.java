@@ -9,7 +9,7 @@ public class HomePage {
 	public void homePage()
 	{
 		System.out.println("Its Home Page");
-		System.out.println("End of Home Page");
+		System.out.println("End of Home Page,Closing Browser");
 		
 	}
 
